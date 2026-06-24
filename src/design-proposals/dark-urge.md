@@ -1,6 +1,8 @@
 # Dark Urge - Minor Antag
-| Designer | Implemented | GitHub Links |
-| PrimroseParadox (discord), ParadoxPrime (Github)| ❌ No | TBD |
+| Designer                  | Implemented | GitHub Links |
+| --------                  | --------    | --------     |
+| PrimroseParadox (discord) | ❌ No      | TBD          |
+| ParadoxPrime (Github)     |             |              |
 
 # Overview
 tbd
